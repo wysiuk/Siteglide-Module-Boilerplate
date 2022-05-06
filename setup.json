@@ -1,0 +1,9 @@
+[
+	{
+		"id": MODULE_ID,
+		"use_standard_fields": false,
+		"module_name": {
+			"value": "MODULE_NAME"
+		}
+	}
+]
