@@ -14,9 +14,9 @@ For now, you shouldn't need to use the [install-process.json](install-process.js
 
 Next up, you will need to rename your [module folder](/modules/module_id) to match your module id (e.g. `/modules/module_101`).
 
-Finally, you'll need to invite SiteglideAPI/api@siteglide.com as a collaborator to the repo. This is in the repo settings, under "Collaborators & Teams" Once this is done and approved by Siteglide, you can then finalise your module in Siteglide Admin.
+Finally, if this is a private repo, you'll need to invite SiteglideAPI (or api@siteglide.com) as a collaborator to the repo. This is in the repo settings, under "Collaborators & Teams". Once this is done and approved by Siteglide, you can then finalise your module in Siteglide Admin.
 
-To do this, head back to the edit module page.
+To finalise your module, head back to the edit module page.
 
 Then you'll need to fill out the "GitHub Repo Account" field (e.g. `wysiuk`) and the "GitHub Repo Name" field (e.g. `Siteglide-Module-Boilerplate`).
 
