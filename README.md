@@ -19,9 +19,12 @@ Finally, you'll need to invite SiteglideAPI/api@siteglide.com as a collaborator 
 To do this, head back to the edit module page.
 
 Then you'll need to fill out the "GitHub Repo Account" field (e.g. `wysiuk`) and the "GitHub Repo Name" field (e.g. `Siteglide-Module-Boilerplate`).
-Finally, check the Live checkbox to enable the module.
 
 If you're using the Custom UI functionality select "Show Menu Item" and input the "Custom UI Path" (e.g. `modules/module_101/index`) & "Menu Name".
+
+If you wish the module to be visible to others outside of Wysi, click Public
+
+Finally, save the module.
 
 You may now install the module on a site.
 
